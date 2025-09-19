@@ -6,5 +6,5 @@ Certificates/
 ├── Course/
 │   └── python_course_certificate.png
 │
-├── Achievement/
-│   └── hackathon_winner_certificate.png
+## Certifications
+- Digital Marketing and Affiliate Marketing Certificate – [View](link-to-certificate)
