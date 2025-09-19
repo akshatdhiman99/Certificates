@@ -6,5 +6,3 @@ Certificates/
 ├── Course/
 │   └── python_course_certificate.png
 │
-## Certifications
-- Digital Marketing and Affiliate Marketing Certificate
